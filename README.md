@@ -39,6 +39,6 @@ Activities Table: Stores user activity data, including type (Work/Life), duratio
 
 Goals Table: Tracks user-defined goals and progress.
 
-###Testing Framework:
+## Testing Framework:
 
 Comprehensive unit testing was implemented using JUnit, focusing on input validation, database operations, and system workflows.
